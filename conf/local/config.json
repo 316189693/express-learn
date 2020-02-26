@@ -1,0 +1,13 @@
+{   
+    "server_type":  "dev",
+    "cron_tracking_order": 7773,
+    "server": 3000,
+
+
+    "db_host_htjy": "localhost",
+    "db_port_htjy": 3306,
+    "db_user_htjy": "root",
+    "db_password_htjy": "qwer1234",
+    "db_database_htjy": "htjy",
+
+}
